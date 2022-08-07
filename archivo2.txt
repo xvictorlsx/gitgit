@@ -1,4 +1,8 @@
 chanchito feliz
 
+<<<<<<< HEAD
 otro chanchito feliz
 otro chanchito felizsss
+=======
+esto es un ejeplo para la rama B
+>>>>>>> ramaB
